@@ -1,0 +1,825 @@
+.blogChild,
+.blogItem {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 960px);
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 4061px;
+}
+.blogItem {
+  top: 40px;
+  height: 60px;
+}
+.finalPngLogo1Icon {
+  position: absolute;
+  top: 39px;
+  left: 15px;
+  width: 125px;
+  height: 62px;
+  object-fit: cover;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 960px);
+  background: linear-gradient(90deg, #84e700, #0e9c00);
+  width: 1920px;
+  height: 40px;
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.email {
+  position: absolute;
+  top: 2px;
+  left: 34px;
+  font-weight: 500;
+}
+.groupContainer {
+  top: 0;
+  left: 0;
+  width: 81px;
+  height: 24px;
+}
+.div,
+.groupContainer,
+.wrapper {
+  position: absolute;
+}
+.div {
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.wrapper {
+  top: 2px;
+  left: 34px;
+  width: 115px;
+  height: 20px;
+}
+.groupDiv,
+.groupParent,
+.groupWrapper {
+  position: absolute;
+  top: 0;
+  left: 110px;
+  width: 149px;
+  height: 24px;
+}
+.groupParent,
+.groupWrapper {
+  left: 0;
+  width: 259px;
+}
+.groupWrapper {
+  top: 8px;
+  left: 312px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 960px);
+  width: 1920px;
+  height: 40px;
+}
+.aboutUs,
+.contactUs,
+.home,
+.recipes,
+.rice {
+  position: absolute;
+  top: 0;
+  left: 97px;
+  font-weight: 600;
+}
+.contactUs,
+.home,
+.recipes,
+.rice {
+  left: 223px;
+}
+.contactUs,
+.home,
+.recipes {
+  left: 303px;
+}
+.contactUs,
+.home {
+  left: 416px;
+}
+.home {
+  left: 0;
+}
+.aboutUsParent,
+.blogInner,
+.homeWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 57px;
+  height: 22px;
+}
+.aboutUsParent,
+.blogInner {
+  width: 518px;
+}
+.blogInner {
+  top: 59px;
+  left: 701px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 291px;
+  height: 39px;
+}
+.charmsearchIcon {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% + 109px);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.search {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  font-weight: 500;
+}
+.charmsearchParent {
+  position: absolute;
+  top: calc(50% - 12.5px);
+  left: calc(50% - 132.5px);
+  width: 266px;
+  height: 24px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 52px;
+  left: 1317px;
+  width: 291px;
+  height: 39px;
+  font-size: var(--font-size-mini);
+  color: var(--color-dimgray);
+}
+.rectangleIcon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 960px);
+  max-height: 100%;
+  width: 1920px;
+}
+.productCategories {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xl);
+  line-height: 26px;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.nonRice,
+.rice1 {
+  position: absolute;
+  top: 43.4%;
+  left: 0;
+  font-weight: 500;
+}
+.nonRice {
+  top: 81.13%;
+}
+.productCategoriesParent {
+  position: absolute;
+  height: 56.04%;
+  width: 15.37%;
+  top: 0;
+  right: 0;
+  bottom: 43.96%;
+  left: 84.63%;
+}
+.visitUs {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 26px;
+  font-weight: 600;
+}
+.vivaAtlierNr {
+  margin: 0;
+}
+.vivaAtlierNrContainer {
+  position: absolute;
+  width: 100%;
+  top: 43.4%;
+  left: 0;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-gainsboro-100);
+  display: inline-block;
+}
+.company,
+.visitUsParent {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.visitUsParent {
+  height: 56.04%;
+  width: 21.91%;
+  top: 3.7%;
+  right: 18.83%;
+  bottom: 40.26%;
+  left: 59.26%;
+}
+.company {
+  top: 0;
+  left: 0;
+  line-height: 26px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.aboutUs1,
+.blogs,
+.contactUs1 {
+  position: absolute;
+  top: 31.51%;
+  left: 0;
+  font-weight: 500;
+}
+.aboutUs1,
+.blogs {
+  top: 86.3%;
+}
+.aboutUs1 {
+  top: 58.9%;
+}
+.companyParent {
+  position: absolute;
+  height: 77.19%;
+  width: 8.38%;
+  top: 3.7%;
+  right: 57.72%;
+  bottom: 19.11%;
+  left: 33.9%;
+}
+.contactUs2 {
+  position: absolute;
+  top: 0;
+  left: 0.75%;
+  font-size: var(--font-size-xl);
+  line-height: 26px;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.bxsphoneCallIcon {
+  position: absolute;
+  height: 100%;
+  width: 14.63%;
+  top: 0;
+  right: 85.37%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div1 {
+  position: absolute;
+  top: 0;
+  left: 29.88%;
+  font-weight: 500;
+}
+.bxsphoneCallParent {
+  position: absolute;
+  height: 13.18%;
+  width: 61.89%;
+  top: 25.26%;
+  right: 37.36%;
+  bottom: 61.57%;
+  left: 0.75%;
+}
+.icsharpEmailIcon {
+  position: absolute;
+  height: 100%;
+  width: 9.13%;
+  top: 0;
+  right: 90.87%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.infoqminfoodworldcom {
+  position: absolute;
+  top: 0;
+  left: 18.63%;
+  font-weight: 500;
+}
+.icsharpEmailParent {
+  position: absolute;
+  height: 13.18%;
+  width: 99.25%;
+  top: 51.61%;
+  right: 0;
+  bottom: 35.21%;
+  left: 0.75%;
+}
+.linkedinIcon {
+  position: relative;
+  width: 34.14px;
+  height: 34.14px;
+  object-fit: cover;
+}
+.linkedinParent {
+  position: absolute;
+  top: 148px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20.48px;
+}
+.contactUsParent,
+.groupParent1 {
+  position: absolute;
+  height: 96.3%;
+  width: 20.37%;
+  top: 3.7%;
+  right: 79.63%;
+  bottom: 0;
+  left: 0;
+}
+.groupParent1 {
+  height: 35.49%;
+  width: 67.76%;
+  top: 35.46%;
+  right: 16.04%;
+  bottom: 29.05%;
+  left: 16.2%;
+}
+.groupChild1,
+.vectorIcon {
+  position: absolute;
+  height: 0.19%;
+  top: 31.05%;
+  bottom: 68.76%;
+  left: calc(50% - 648px);
+  max-height: 100%;
+  width: 1296px;
+}
+.groupChild1 {
+  top: 81.14%;
+  bottom: 18.67%;
+  left: calc(50% - 960px);
+  width: 1920px;
+}
+.finalPngLogo1Icon1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 96.5px);
+  width: 193px;
+  height: 96px;
+  object-fit: cover;
+}
+.groupChild2 {
+  position: absolute;
+  top: 71px;
+  left: 71px;
+  background-color: var(--color-gainsboro-200);
+  width: 115px;
+  height: 10px;
+  mix-blend-mode: color-dodge;
+}
+.finalPngLogo1Parent {
+  position: absolute;
+  top: 50px;
+  left: calc(50% - 96px);
+  width: 193px;
+  height: 96px;
+}
+.vectorParent {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.blogChild1,
+.blogInner1,
+.vectorParent {
+  position: absolute;
+  left: calc(50% - 960px);
+  width: 1920px;
+}
+.blogInner1 {
+  height: 13.12%;
+  top: 86.88%;
+  bottom: 0;
+  color: var(--color-gainsboro-100);
+}
+.blogChild1 {
+  height: 12.31%;
+  top: 2.46%;
+  bottom: 85.23%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupChild3 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 306px);
+  background: linear-gradient(
+    270deg,
+    transparent,
+    #000 34.38%,
+    #000 49.06%,
+    #000 60.42%,
+    transparent
+  );
+  backdrop-filter: blur(0);
+  width: 612px;
+}
+.blog1,
+.blogWrapper {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 61px);
+}
+.blogWrapper {
+  top: 46px;
+  width: 122px;
+  height: 61px;
+}
+.rectangleContainer {
+  position: absolute;
+  height: 3.84%;
+  top: 6.7%;
+  bottom: 89.46%;
+  left: calc(50% - 306px);
+  width: 612px;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+}
+.popularPosts {
+  top: 0;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.87px;
+  line-height: 24.7px;
+  text-transform: uppercase;
+}
+.imageIcon,
+.popularPosts,
+.rectangle {
+  position: absolute;
+  left: 0;
+}
+.rectangle {
+  top: 138px;
+  background-color: var(--color-darkslategray-200);
+  width: 345px;
+  height: 1px;
+}
+.imageIcon {
+  top: 4px;
+  width: 95px;
+  height: 95px;
+  object-fit: cover;
+}
+.indiasTopRice,
+.savorQualityRice {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.indiasTopRice {
+  top: 0;
+  line-height: 130.9%;
+  text-transform: uppercase;
+  width: 235px;
+}
+.savorQualityRice {
+  top: 49px;
+  line-height: 24.91px;
+  width: 208px;
+}
+.indiasTopRiceExporterQmiParent {
+  position: absolute;
+  top: 0;
+  left: 112px;
+  width: 235px;
+  height: 99px;
+}
+.imageParent,
+.rectangle1,
+.rectangleParent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 347px;
+  height: 99px;
+}
+.rectangle1,
+.rectangleParent1 {
+  top: 40px;
+  height: 139px;
+}
+.rectangle1 {
+  top: 139px;
+  background-color: var(--color-darkslategray-200);
+  width: 345px;
+  height: 1px;
+}
+.imageIcon1 {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  width: 95px;
+  height: 95px;
+  object-fit: cover;
+}
+.basmatiBlissQmins {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 140.4%;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 247px;
+}
+.elevateYourCulinaryContainer {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  line-height: 143.4%;
+  display: inline-block;
+  width: 235px;
+}
+.basmatiBlissQminsPremiumParent,
+.imageGroup,
+.rectangleParent2 {
+  position: absolute;
+  top: 0;
+  left: 112px;
+  width: 247px;
+  height: 129px;
+}
+.imageGroup,
+.rectangleParent2 {
+  left: 0;
+  width: 359px;
+}
+.rectangleParent2 {
+  top: 224px;
+  height: 140px;
+}
+.boostYourWellBeing,
+.healthyEatingWith {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  width: 235px;
+}
+.healthyEatingWith {
+  top: 0;
+  line-height: 156.9%;
+  text-transform: uppercase;
+}
+.boostYourWellBeing {
+  top: 61px;
+  line-height: 130.9%;
+}
+.healthyEatingWithQminBasmaParent,
+.imageContainer,
+.rectangleParent3 {
+  position: absolute;
+  top: 0;
+  left: 112px;
+  width: 235px;
+  height: 103px;
+}
+.imageContainer,
+.rectangleParent3 {
+  left: 0;
+  width: 347px;
+}
+.rectangleParent3 {
+  top: 409px;
+  height: 140px;
+}
+.exploreTheHealthContainer,
+.qminFoodWorld {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  width: 235px;
+}
+.qminFoodWorld {
+  top: 0;
+  line-height: 150.9%;
+  text-transform: uppercase;
+}
+.exploreTheHealthContainer {
+  top: 62px;
+}
+.imageParent1,
+.qminFoodWorldRiceForHealParent,
+.rectangleParent4 {
+  position: absolute;
+  top: 0;
+  left: 112px;
+  width: 235px;
+  height: 122px;
+}
+.imageParent1,
+.rectangleParent4 {
+  left: 0;
+  width: 347px;
+}
+.rectangleParent4 {
+  top: 594px;
+  height: 140px;
+}
+.popularPostsSection {
+  position: absolute;
+  top: 1506px;
+  left: 1249px;
+  width: 359px;
+  height: 734px;
+  color: var(--color-black);
+}
+.featureImageIcon {
+  position: absolute;
+  top: 881px;
+  left: 313px;
+  width: 1295px;
+  height: 594px;
+  object-fit: cover;
+}
+.publishedOn,
+.september182023 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+  font-weight: 500;
+}
+.september182023 {
+  left: 149.5px;
+}
+.publishedOnParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 344.5px;
+  height: 24px;
+}
+.heading,
+.metaSection {
+  position: absolute;
+  left: 312px;
+}
+.metaSection {
+  top: 827px;
+  width: 344.5px;
+  height: 24px;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-200);
+}
+.heading {
+  top: 700px;
+  font-size: var(--font-size-11xl);
+  line-height: 48.5px;
+  display: inline-block;
+  color: var(--color-forestgreen);
+  width: 504px;
+}
+.atTheHeart {
+  margin: 0;
+  font-weight: 500;
+}
+.cultivation {
+  font-family: var(--font-montserrat);
+}
+.ourBasmatiRice {
+  font-weight: 500;
+}
+.harvestingTheHarvestingPro {
+  margin-bottom: 0;
+}
+.cultivationOurBasmatiRice {
+  margin: 0;
+  padding-left: 27px;
+}
+.atTheHeartContainer {
+  position: absolute;
+  top: 1514px;
+  left: 312px;
+  font-size: inherit;
+  line-height: 33px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 862px;
+}
+.image26Icon3 {
+  position: absolute;
+  top: 2105px;
+  left: 1249px;
+  width: 95px;
+  height: 95px;
+  object-fit: cover;
+}
+.image28 {
+  position: absolute;
+  top: 881px;
+  left: 313px;
+  background-color: rgba(0, 0, 0, 0.18);
+  backdrop-filter: blur(9px);
+  width: 1295px;
+  height: 594px;
+}
+.theHeartOf {
+  position: absolute;
+  top: 27.16%;
+  left: calc(50% - 386px);
+  font-size: 60.64px;
+  font-family: var(--font-berkshire-swash);
+  text-align: center;
+  display: inline-block;
+  width: 773px;
+  text-shadow: 0 2.373690128326416px 2.37px #000;
+}
+.groupChild4 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1920px;
+  height: 100px;
+}
+.copyright2023 {
+  position: absolute;
+  top: 41px;
+  left: calc(50% - 238px);
+  font-weight: 500;
+}
+.rectangleParent5 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 1920px;
+  height: 100px;
+  text-align: center;
+  font-size: var(--font-size-mini);
+}
+.linkedinIcon1 {
+  position: relative;
+  width: 25.52px;
+  height: 25.52px;
+  object-fit: cover;
+}
+.blogInner2,
+.linkedinGroup {
+  position: absolute;
+  width: 148px;
+  height: 25.52px;
+}
+.linkedinGroup {
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15.31px;
+}
+.blogInner2 {
+  top: 7px;
+  left: 1460px;
+}
+.blog {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4061px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
